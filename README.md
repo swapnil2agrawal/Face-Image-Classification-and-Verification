@@ -1,2 +1,2 @@
-# face-image-classification
+# Face-Image-Classification
 Classified the face images using mobilnet
