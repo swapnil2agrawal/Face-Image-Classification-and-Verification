@@ -15,9 +15,9 @@ A dataset of few thousand images of labelled ID's is used to train customized Mo
 ## Setup
 
 <b>Requirements</b>
-    - Python 3.7
-    - Jupyter Notebooks
-    - AWS (to train model on cloud)
+ - Python 3.7
+ - Jupyter Notebooks
+ - AWS (to train model on cloud)
     
 <b>Instructions</b>
 - Download Image_classification.ipynb and open using jupyter notebook on aws with ec2 instance. 
